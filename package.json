@@ -31,7 +31,7 @@
         "prettify": "./node_modules/.bin/prettier --write ./lib/**/* ./test/**/*"
     },
     "dependencies": {
-        "oauth": "^0.10.0",
+        "oauth": "github:Amndeep7/node-oauth#logging",
         "passport-strategy": "^1.0.0"
     },
     "devDependencies": {
